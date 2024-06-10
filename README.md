@@ -1,6 +1,6 @@
 # 📌 Gri_link_site
 
-![Proje Banner]([https://cdn.discordapp.com/attachments/1248983337306030143/1248987440190849054/image.png?ex=6665a9b2&is=66645832&hm=dd1de897ae4a4cef4e3567a94e4725af4b1a706d1bc7f1054aa5c96130c5c0b4&](https://cdn.discordapp.com/attachments/1248983337306030143/1249675413232418816/image.png?ex=66682a6c&is=6666d8ec&hm=0dcabae123bcbd0be39ea7008cff5fe2c38eb4287569a5ed11c77d17be148991&))
+![Proje Banner]([https://cdn.discordapp.com/attachments/1248983337306030143/1249675413232418816/image.png?ex=66682a6c&is=6666d8ec&hm=0dcabae123bcbd0be39ea7008cff5fe2c38eb4287569a5ed11c77d17be148991&)
 [View Demo Page](https://gri-link-site.vercel.app/)
 
 ## 📖 Hakkında
@@ -16,7 +16,7 @@ gri_link_site, modern ve kullanıcı, herkesin düzenleyebilmesi için olabildi�
 
 ## 🖼️ Ekran Görüntüleri
 
-![Ekran Görüntüsü 1]([https://cdn.discordapp.com/attachments/1248983337306030143/1248987474529751071/image.png?ex=6665a9ba&is=6664583a&hm=bcd33ba9b64c567198e9586fe5bcb6f28570893c7fff841326748505ba12b397&](https://cdn.discordapp.com/attachments/1248983337306030143/1249675413232418816/image.png?ex=66682a6c&is=6666d8ec&hm=0dcabae123bcbd0be39ea7008cff5fe2c38eb4287569a5ed11c77d17be148991&))
+![Ekran Görüntüsü 1]([https://cdn.discordapp.com/attachments/1248983337306030143/1249675413232418816/image.png?ex=66682a6c&is=6666d8ec&hm=0dcabae123bcbd0be39ea7008cff5fe2c38eb4287569a5ed11c77d17be148991&]))
 
 ## 📦 Kurulum
 
